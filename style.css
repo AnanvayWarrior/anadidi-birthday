@@ -1,0 +1,26 @@
+#heading {
+    font-size: 80px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: rgb(0, 85, 255);
+    text-decoration: underline;
+}
+
+.body_background 
+{
+    background-image:url("hOye.gif");
+    background-position:center;
+    background-size:cover;
+    height: 100%;
+}
+
+#paragraph
+{
+    font-style: italic;
+    font-size: 30px;
+}
+
+
+
+
+
+
